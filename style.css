@@ -6,12 +6,3 @@ body {
     width: 30em; 
     text-align: center;
 }
-
-
-.hlist { display: flex; }
-.hlist li { 
-    list-style-type: none; 
-    padding: 5px
-}
-
-
