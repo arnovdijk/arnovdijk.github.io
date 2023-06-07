@@ -14,10 +14,10 @@ body {
 
 button {
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 32px;
     margin-bottom: 10px;
     border-radius: 5px; /* Adding rounded corners */
-    width: 150px; /* Adding a fixed width for all buttons */
+    width: 200px; /* Adding a fixed width for all buttons */
 }
 
 #red-button {
