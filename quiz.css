@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.color-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: bottom;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-radius: 5px; /* Adding rounded corners */
+    width: 150px; /* Adding a fixed width for all buttons */
+}
+
+#red-button {
+    background-color: red;
+    color: white;
+}
+
+#yellow-button {
+    background-color: yellow;
+    color: black;
+}
+
+#blue-button {
+    background-color: blue;
+    color: white;
+}
